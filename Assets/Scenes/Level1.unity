@@ -6607,25 +6607,25 @@ MonoBehaviour:
     objectsToDeactivate:
     - {fileID: 1599586981}
   - name: Foto1
-    time: 141
+    time: 105
     objectsToActivate:
     - {fileID: 1173301626}
     objectsToDeactivate:
     - {fileID: 1599586981}
   - name: Foto3
-    time: 155
+    time: 119
     objectsToActivate:
     - {fileID: 1298290345}
     objectsToDeactivate:
     - {fileID: 1173301626}
   - name: Foto2
-    time: 169
+    time: 134
     objectsToActivate:
     - {fileID: 982655545}
     objectsToDeactivate:
     - {fileID: 1298290345}
   - name: Foto4
-    time: 183
+    time: 147
     objectsToActivate:
     - {fileID: 795012217}
     objectsToDeactivate:
